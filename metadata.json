@@ -1,0 +1,6 @@
+{
+  "name": "MentoraAI - One-Stop Career & Education Advisor",
+  "description": "AI-powered personalized career and education ecosystem for student empowerment and government college admissions, built for Smart India Hackathon 2025.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
